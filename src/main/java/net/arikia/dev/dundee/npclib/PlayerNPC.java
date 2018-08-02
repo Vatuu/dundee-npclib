@@ -38,6 +38,8 @@ public class PlayerNPC {
     private DundeeItem pantsItem;
     private DundeeItem bootsItems;
 
+    private double proximityEventRadius = 3.5;
+
     private final Map<UUID, DundeeEntity> entities;
 
     PlayerNPC(){

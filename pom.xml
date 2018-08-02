@@ -8,6 +8,8 @@
     <artifactId>npclib</artifactId>
     <version>1.0</version>
 
+    <name>dundee/npclib</name>
+
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -26,5 +28,4 @@
             <version>1.18.0</version>
         </dependency>
     </dependencies>
-
 </project>
